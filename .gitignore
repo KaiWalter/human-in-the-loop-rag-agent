@@ -65,3 +65,7 @@ Thumbs.db
 *.tmp
 
 examples
+
+# Data
+.postgres/
+.pg_password
